@@ -1,0 +1,1 @@
+ C:\\Users\\david\\Desktop\\2DAM\\FCTS\\Ayto\ Gerindote\\ayto_gerindote\\.dart_tool\\flutter_build\\d1ee1f24737b73e806c7baf9607f6fb1\\native_assets.json: 

@@ -1,0 +1,2 @@
+C:/Users/david/Desktop/2DAM/FCTS/Ayto Gerindote/ayto_gerindote/android/app/.cxx/Debug/564b2d4u/x86/CMakeFiles/edit_cache.dir
+C:/Users/david/Desktop/2DAM/FCTS/Ayto Gerindote/ayto_gerindote/android/app/.cxx/Debug/564b2d4u/x86/CMakeFiles/rebuild_cache.dir
